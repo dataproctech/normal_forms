@@ -13,7 +13,10 @@ In this assignment you will:
 
 We start from the **STUDENT** table shown in Table P6.4.
 
-> In the repository you will find the file `student_table_p64.png` containing the table with attributes and sample rows.
+> In the repository you will find the file 'student_table_p64.png':
+> ![Dependency Diagram](student_table_p64.png)
+>
+> containing the table with attributes and sample rows.
 
 Main attributes (column names):
 
